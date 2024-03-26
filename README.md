@@ -15,7 +15,7 @@ In-House Web App is a This GitHub repository houses a versatile CRUD (Create, Re
 2. Navigate to the project directory: `cd your-repository`
 3. Open the project in your preferred IDE (Visual Studio, Visual Studio Code, etc.).
 4. Install dependencies using NuGet Package Manager.
-5. [Any other installation steps if necessary]
+
 
 ## Usage
 1. Build the project.
